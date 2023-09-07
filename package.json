@@ -2,12 +2,12 @@
     "name": "zia-api",
     "version": "1.0.1",
     "description": "Anime Streaming, Discovery API made with Cheerio and Express.",
-    "main": "lib/anime_parser.js",
+    "main": "anime_parser.js",
     "type": "module",
-    "types": "lib/types/index.d.ts",
+    "types": "types/index.d.ts",
     "scripts": {
-        "start": "node lib/api.js",
-        "dev": "nodemon lib/api.js",
+        "start": "node api.js",
+        "dev": "nodemon api.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
