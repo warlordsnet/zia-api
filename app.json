@@ -1,12 +1,12 @@
 {
-  "name": "Katsu API",
+  "name": "Zia API",
   "description": "This app does one little thing, and does it well.",
   "keywords": [
     "Nodejs",
     "express"
   ],
   "website": "https://animezia.com/",
-  "repository": "https://github.com/jane-doe/small-sharp-tool",
+  "repository": "https://github.com/warlordsnet/zia-api",
   "logo": "https://cdnzia.pages.dev/favicon.ico",
   "success_url": "/welcome"
 
