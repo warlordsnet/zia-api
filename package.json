@@ -1,21 +1,23 @@
 {
-    "name": "zia-api",
-    "version": "1.0.1",
-    "description": "Anime Streaming, Discovery API made with Cheerio and Express.",
-    "main": "anime_parser.js",
+    "name": "gogoanime-api",
+    "version": "1.0.0",
+    "description": "Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime",
+    "main": "lib/anime_parser.js",
     "type": "module",
-    "types": "types/index.d.ts",
+    "types": "lib/types/index.d.ts",
     "scripts": {
-        "start": "node api.js",
-        "dev": "nodemon api.js",
+        "start": "node lib/api.js",
+        "dev": "nodemon lib/api.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "anime",
         "streaming",
         "discovery",
-        "api"
+        "api",
+        "gogoanime"
     ],
+    "author": "https://github.com/riimuru",
     "license": "ISC",
     "dependencies": {
         "axios": "^0.27.2",
