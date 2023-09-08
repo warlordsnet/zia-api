@@ -39,6 +39,8 @@ npm start #or yarn start
 ```
 Now the server is running on http://localhost:3000
 
+# While deploying these apps ask for start command, make it - `node lib/api.js`
+
 ### Heroku
 Host your own instance of the api on heroku using the button below.
 
