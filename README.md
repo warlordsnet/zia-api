@@ -54,5 +54,14 @@ Host your own instance of the api on railway using the button below.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/aFtc7p?referralCode=HTSy4c)
 
-## Routes
-Below you'll find examples using [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) but you can use any other http library out there.
+### Netlify
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/warlordsnet/zia-api)
+
+### Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/warlordsnet/zia-api)
+
+### Cyclic
+
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/warlordsnet/zia-api)
