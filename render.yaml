@@ -6,3 +6,4 @@ services:
     branch: main
     runtime: node  # specify the correct runtime here
     startCommand: node lib/api.js  # specify the start command here
+    buildCommand: yarn
